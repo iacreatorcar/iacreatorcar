@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carmine dalise
 - 👀 I’m interested in multimedia and Web Design 
 - 🌱 I’m currently learning on web developer ful stack 
-- 💞️ I’m looking to collaborate Always passionate about technology and networks,
+- 💞️ I’m looking to collaborate Always passionate about technology and networks
 - experience on board cruise ships as
  as chief technician and multimedia technical supervisor.
  a path where training is always evolving and making
