@@ -2,6 +2,8 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000000&height=200&section=header&text=Carmine%20D'alise&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/main/profile.png" width="160" style="border-radius: 50%; border: 3px solid #004e92;" alt="Carmine D'Alise" />
   
   [![Website](https://img.shields.io/badge/🌐_cdalise.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.cdalise.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carminedalise-digital)
