@@ -109,7 +109,7 @@ Professional interactive quiz system for cruise ships:
 | **Projects built** | 10+ |
 | **Live platforms** | 8 |
 | **Technologies integrated** | 15+ |
-| **Commits (2026)** | 43+ (just on bigpay) |
+| **Commits (2026)** | 43+ (just on bigpaw) |
 | **Operating systems** | Maritime, Hospitality, Entertainment |
 
 ---
