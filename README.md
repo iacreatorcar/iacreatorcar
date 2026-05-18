@@ -44,16 +44,13 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake (animated)
+## 🐍 GitHub Contribution Snake
 
-*This snake eats your contributions every day — watch it move!*
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-snake.svg" />
+</picture>
 > ⚠️ **Note:** The snake appears automatically after 24-48 hours. GitHub Actions runs daily to regenerate it.
 
 ---
