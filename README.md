@@ -30,14 +30,17 @@
 
 <div align="center">
   
+  <!-- Card statistiche generali -->
   <img src="https://github-readme-stats.vercel.app/api?username=iacreatorcar&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117" width="49%" />
   
+  <!-- Card linguaggi più usati -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacreatorcar&layout=compact&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117" width="49%" />
   
 </div>
 
 <div align="center">
   
+  <!-- Card streak (striscia di contributi) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iacreatorcar&hide_border=true&stroke=00b4d8&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=ffffff" />
   
 </div>
