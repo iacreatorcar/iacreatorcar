@@ -7,6 +7,9 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carminedalise-digital)
   [![Email](https://img.shields.io/badge/Email-carmine@cdalise.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carmine@cdalise.com)
   
+  <!-- OPEN TO WORK BADGE -->
+  <img src="https://img.shields.io/badge/Open_to_Work-00b4d8?style=for-the-badge&logo=handshake&logoColor=white"/>
+  
 </div>
 
 ---
@@ -20,6 +23,38 @@
 > *"I don't write code just to write code. I build tools I wish I had when I was on board, deep in the digital and tech world."*
 
 📍 Naples, Italy · Available worldwide
+
+---
+
+## 📊 Live Metrics (real-time GitHub stats)
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=iacreatorcar&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117" width="49%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacreatorcar&layout=compact&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117" width="49%" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iacreatorcar&hide_border=true&stroke=00b4d8&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=ffffff" />
+  
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake (animated)
+
+*This snake eats your contributions every day — watch it move!*
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+> ⚠️ **Note:** The snake appears automatically after 24-48 hours. GitHub Actions runs daily to regenerate it.
 
 ---
 
@@ -109,7 +144,7 @@ Professional interactive quiz system for cruise ships:
 | **Projects built** | 10+ |
 | **Live platforms** | 8 |
 | **Technologies integrated** | 15+ |
-| **Commits (2026)** | 43+ (just on bigpaw) |
+| **Commits (2026)** | 43+ (just on bigpay) |
 | **Operating systems** | Maritime, Hospitality, Entertainment |
 
 ---
