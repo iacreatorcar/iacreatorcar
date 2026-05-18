@@ -73,5 +73,41 @@
 │  • Admin panel: start/pause/stop · CSV/PDF export          │
 │  • Firebase: 50k connections/day · auto awards             │
 └─────────────────────────────────────────────────────────────┘
+Tech Stack
+Layer	Tools
+Cloud	Firebase · Supabase · MongoDB · Vercel · Render
+Frontend	HTML5 · CSS3 · JavaScript · React · TypeScript
+DevOps	Docker · GitHub · Cloudflare
+AI (daily)	Claude · Deep CLI
+In progress	Azure 900 · AWS
+By the Numbers
+text
+┌─────────────────────────────────────────────────────────────┐
+│   10+        8           15+         43+                   │
+│  Projects   Live       Tech        Commits                 │
+│  built      platforms  integrated  (2026)                   │
+└─────────────────────────────────────────────────────────────┘
+What I'm Looking For
+text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   📌 Consulting · Digital Systems · Technical Operations   │
+│   📌 Companies who need someone FROM the field             │
+│   📌 Collaborations · SaaS · Cloud · AI                    │
+│                                                             │
+│   "I don't come from theory. I come from 20+ years         │
+│    in complex environments. I know what works              │
+│    because I've lived it."                                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+Contact
+📧	carmine@cdalise.com
+💼	linkedin.com/in/carminedalise-digital
+🌐	cdalise.com
+<div align="center">
+"Twenty years of international operations have taught me one thing: results are built through discipline, leadership and the ability to perform when it matters most."
 
+Available · Based in Italy · Response within 24 hours
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer"/></div> ```
 
