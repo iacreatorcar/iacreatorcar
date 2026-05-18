@@ -30,18 +30,18 @@
 
 <div align="center">
   
-  <!-- Card statistiche generali -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iacreatorcar&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117" width="49%" />
+  <!-- Card 1: Statistiche generali -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iacreatorcar&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide=issues,contribs" width="45%" />
   
-  <!-- Card linguaggi più usati -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacreatorcar&layout=compact&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117" width="49%" />
+  <!-- Card 2: Linguaggi più usati -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacreatorcar&layout=compact&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117&langs_count=6" width="45%" />
   
 </div>
 
 <div align="center">
   
-  <!-- Card streak (striscia di contributi) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iacreatorcar&hide_border=true&stroke=00b4d8&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=ffffff" />
+  <!-- Card 3: Streak (striscia di contributi) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iacreatorcar&hide_border=true&stroke=00b4d8&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=ffffff" width="70%" />
   
 </div>
 
@@ -49,12 +49,15 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-snake.svg" />
-</picture>
-> ⚠️ **Note:** The snake appears automatically after 24-48 hours. GitHub Actions runs daily to regenerate it.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/output/github-snake.svg" />
+  </picture>
+</div>
+
+> ⚠️ **Note:** The snake appears automatically after the first GitHub Actions run. If you don't see it, go to **Actions** → **Generate Snake Animation** → **Run workflow**.
 
 ---
 
