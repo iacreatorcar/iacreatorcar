@@ -52,20 +52,23 @@
   <h3>📌 My Live Projects</h3>
   
   <a href="https://meridian.cdalise.com">
-    <img src="https://img.shields.io/badge/Meridian_Aria-00b4d8?style=for-the-badge&logo=salesforce&logoColor=white" />
-  </a>
-  <a href="https://berthflow.com">
-    <img src="https://img.shields.io/badge/BerthFlow-004e92?style=for-the-badge&logo=simpleanalytics&logoColor=white" />
-  </a>
-  <a href="https://nauticgantt.cdalise.com">
-    <img src="https://img.shields.io/badge/NauticGantt-00b4d8?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="https://taskflow.cdalise.com">
-    <img src="https://img.shields.io/badge/TickFlow-004e92?style=for-the-badge&logo=jira&logoColor=white" />
-  </a>
-  <a href="https://oishii.cdalise.com">
-    <img src="https://img.shields.io/badge/Oishii-00b4d8?style=for-the-badge&logo=restaurant&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Meridian_Aria-00b4d8?style=for-the-badge&logo=salesforce&logoColor=white" />
+</a>
+<a href="https://berthflow.com">
+  <img src="https://img.shields.io/badge/BerthFlow-004e92?style=for-the-badge&logo=simpleanalytics&logoColor=white" />
+</a>
+<a href="https://hotelflow.cdalise.com">
+  <img src="https://img.shields.io/badge/HotelFlow-00b4d8?style=for-the-badge&logo=hotel&logoColor=white" />
+</a>
+<a href="https://taskflow.cdalise.com">
+  <img src="https://img.shields.io/badge/TickFlow-004e92?style=for-the-badge&logo=jira&logoColor=white" />
+</a>
+<a href="https://symphony-spa.cdalise.com">
+  <img src="https://img.shields.io/badge/Symphony_Spa-00b4d8?style=for-the-badge&logo=spa&logoColor=white" />
+</a>
+<a href="https://nexus.cdalise.com">
+  <img src="https://img.shields.io/badge/Nexus_XPanel-004e92?style=for-the-badge&logo=control&logoColor=white" />
+</a>
   
   <br/><br/>
   
