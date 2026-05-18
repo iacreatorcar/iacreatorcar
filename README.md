@@ -30,12 +30,12 @@
 
 <div align="center">
   
-  <!-- Contatore visite (funziona sempre) -->
+  <!-- Contatore visite -->
   <img src="https://komarev.com/ghpvc/?username=iacreatorcar&color=00b4d8&style=flat-square&label=Profile+Views" />
   
   <br/><br/>
   
-  <!-- Badge con i tuoi risultati REALI (sempre visibili) -->
+  <!-- Badge risultati -->
   <img src="https://img.shields.io/badge/📦_Projects-10+-00b4d8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌐_Live_Platforms-8-004e92?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🛠️_Tech-15+-0077b5?style=for-the-badge" />
@@ -48,16 +48,30 @@
   
   <br/><br/>
   
-  <!-- Link alternativo alle statistiche GitHub -->
-  <details>
-    <summary>📈 View detailed GitHub stats</summary>
-    <br/>
-    <a href="https://github.com/iacreatorcar">
-      <img src="https://img.shields.io/badge/Click_to_see_all_stats-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <br/><br/>
-    <i>GitHub stats service is temporarily paused. Click the button above to see your stats directly on GitHub.</i>
-  </details>
+  <!-- LINK FUNZIONANTI ai progetti -->
+  <h3>📌 My Live Projects</h3>
+  
+  <a href="https://meridian.cdalise.com">
+    <img src="https://img.shields.io/badge/Meridian_Aria-00b4d8?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
+  <a href="https://berthflow.com">
+    <img src="https://img.shields.io/badge/BerthFlow-004e92?style=for-the-badge&logo=simpleanalytics&logoColor=white" />
+  </a>
+  <a href="https://nauticgantt.cdalise.com">
+    <img src="https://img.shields.io/badge/NauticGantt-00b4d8?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://taskflow.cdalise.com">
+    <img src="https://img.shields.io/badge/TickFlow-004e92?style=for-the-badge&logo=jira&logoColor=white" />
+  </a>
+  <a href="https://oishii.cdalise.com">
+    <img src="https://img.shields.io/badge/Oishii-00b4d8?style=for-the-badge&logo=restaurant&logoColor=white" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/iacreatorcar?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗_View_All_Repositories_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   
 </div>
 
