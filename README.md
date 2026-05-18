@@ -1,148 +1,77 @@
-<!-- BANNER -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000000&height=200&section=header&text=Carmine%20D'alise&fontSize=50&fontColor=ffffff&animation=fadeIn)
+<!--- LANDING PAGE STYLE --->
+<!--- Carmine D'Alise · Technical Product Builder --->
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/main/profile.png" width="160" style="border-radius: 50%; border: 3px solid #004e92;" alt="Carmine D'Alise" />
   
-  [![Website](https://img.shields.io/badge/🌐_cdalise.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.cdalise.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carminedalise-digital)
-  [![Email](https://img.shields.io/badge/Email-carmine@cdalise.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carmine@cdalise.com)
+  <!-- BANNER SUPERIORE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=180&section=header&fontSize=0" width="100%"/>
+  
+  <!-- FOTO PROFILO -->
+  <img src="https://raw.githubusercontent.com/iacreatorcar/iacreatorcar/main/profile.png" width="140" style="border-radius: 50%; border: 3px solid #00b4d8; margin-top: -60px;" alt="Carmine D'Alise" />
+  
+  <!-- NOME + TITOLO -->
+  <h1 style="margin-bottom: 0;">Carmine D'Alise</h1>
+  <h3 style="margin-top: 0; color: #00b4d8; font-weight: 400;">Technical Product Builder</h3>
+  
+  <!-- BADGE CONTATTI -->
+  <p>
+    <a href="https://cdalise.com"><img src="https://img.shields.io/badge/cdalise.com-000000?style=flat&logo=vercel&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/carminedalise-digital"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:carmine@cdalise.com"><img src="https://img.shields.io/badge/carmine@cdalise.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  </p>
+  
+  <!-- OPEN TO WORK BADGE -->
+  <img src="https://img.shields.io/badge/Open_to_Work-00b4d8?style=for-the-badge&logo=handshake&logoColor=white"/>
   
 </div>
 
 ---
 
-## 👋 Who I Am
+## Who I Am
 
-**Carmine D'Alise** — Technical Product Builder.
+**20+ years** of international operations on cruise ships, superyachts, and hospitality. Today I build digital systems rooted in **real problems** experienced in the field.
 
-20+ years of international operations on cruise ships, superyachts, and hospitality. Today I build digital systems rooted in **real problems** I experienced in the field.
-
-> *"I don't write code just to write code. I build tools I wish I had when I was on board, deep in the digital and tech world."*
+> *"I don't write code just to write code. I build tools I wish I had when I was on board."*
 
 📍 Naples, Italy · Available worldwide
 
 ---
 
-## 📦 What I Built in 5 Months
+## What I Built in 5 Months
 
-From January 2026 to today, I created a **complete ecosystem**:
-
-| Category | What |
-|----------|------|
-| 🚢 **Maritime Platforms** | Meridian (Guest Intelligence), BerthFlow (marina management), NauticGantt (fleet management) |
-| 🏨 **Hospitality Systems** | HotelFlow Manager, Oishii (restaurant), Symphony Spa |
-| 🎮 **Interactive Entertainment** | Cruise Games Arena (5-language quiz system), Antigravity |
-| 🛠️ **Operational Tools** | TickFlow (ticketing system), Nexus XPanel (Crestron-compatible control) |
-| 🤖 **AI Integration** | Build Agent (AI logic for 3 platforms) |
+| Category | Projects |
+|:---------|:---------|
+| 🚢 **Maritime** | Meridian · BerthFlow · NauticGantt |
+| 🏨 **Hospitality** | HotelFlow · Oishii · Symphony Spa |
+| 🎮 **Entertainment** | Cruise Games Arena (5 languages) · Antigravity |
+| 🛠️ **Operations** | TickFlow · Nexus XPanel |
+| 🤖 **AI** | Build Agent (3 platforms) |
 
 ---
 
-## 🚢 Live Projects (all working)
+## Live Projects
 
-| Project | URL | What It Does |
-|---------|-----|---------------|
-| **Meridian Aria** | [meridian.cdalise.com](https://meridian.cdalise.com) | Luxury Cruise Intelligence Platform with AI integration |
-| **BerthFlow** | [berthflow.com](https://berthflow.com) | Marina management — live map, bookings, RLS |
-| **NauticGantt** | [nauticgantt.cdalise.com](https://nauticgantt.cdalise.com) | Charter fleet management — Gantt, KPI, CRUD |
-| **MarinaFlow** | [marinaflow.cdalise.com](https://marinaflow.cdalise.com) | Marina management with Supabase |
-| **TickFlow** | [taskflow.cdalise.com](https://taskflow.cdalise.com) | Professional ticketing system (React, TS, Kanban) |
-| **Oishii** | [oishii.cdalise.com](https://oishii.cdalise.com) | Restaurant management — menu, reservations |
-| **Symphony Spa** | [symphony-spa.cdalise.com](https://symphony-spa.cdalise.com) | Cruise wellness UX — booking, QR, iTV |
-| **Nexus XPanel** | [nexus.cdalise.com](https://nexus.cdalise.com) | Superyacht control panel (Crestron-compatible) |
-| **Cruise Games Arena** | (on request) | 5-language quiz system for cruise ships |
+| Project | Stack | Status |
+|:--------|:------|:-------|
+| [Meridian Aria](https://meridian.cdalise.com) | AI · Firebase · Vercel | ✅ Live |
+| [BerthFlow](https://berthflow.com) | Supabase · Map · RLS | ✅ Live |
+| [NauticGantt](https://nauticgantt.cdalise.com) | Gantt · KPI · CRUD | ✅ Live |
+| [TickFlow](https://taskflow.cdalise.com) | React · TS · Kanban | ✅ Live |
+| [Cruise Games Arena](https://github.com/iacreatorcar) | Firebase · 5 languages | 🚢 Demo |
 
 ---
 
-## 🎮 Cruise Games Arena — Flagship Project
+## Cruise Games Arena — Flagship
 
-Professional interactive quiz system for cruise ships:
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  QUIZ SYSTEM FOR CRUISE SHIPS                               │
+├─────────────────────────────────────────────────────────────┤
+│  • 5 languages (EN/IT/FR/DE/ES)                             │
+│  • Real-time leaderboard on public display                  │
+│  • No app required — just QR code                           │
+│  • Admin panel: start/pause/stop · CSV/PDF export          │
+│  • Firebase: 50k connections/day · auto awards             │
+└─────────────────────────────────────────────────────────────┘
 
-| Feature | Detail |
-|---------|--------|
-| **5 languages** | English, Italian, French, German, Spanish |
-| **Real-time** | Live leaderboard on public display |
-| **No app required** | Works in browser, just scan QR code |
-| **Admin panel** | Start/Pause/Stop, load JSON, export CSV/PDF |
-| **Firebase** | Real-time database, 50k connections/day |
-| **Awards** | Automatically determines 1st-2nd-3rd place |
 
-**Stack:** Firebase, Vercel, pure HTML/CSS/JS
-
----
-
-## 🛠️ Tech Stack (real, not theoretical)
-
-### Cloud & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### AI Tools (daily)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Deep CLI](https://img.shields.io/badge/Deep_CLI-FF6B6B?style=for-the-badge&logo=terminal&logoColor=white)
-
-### Certifications (in progress)
-![Azure](https://img.shields.io/badge/Azure_900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) *(in progress)*
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) *(in progress)*
-
----
-
-## 📊 5 Months by the Numbers
-
-| Metric | Result |
-|--------|--------|
-| **Projects built** | 10+ |
-| **Live platforms** | 8 |
-| **Technologies integrated** | 15+ |
-| **Commits (2026)** | 43+ (just on bigpay) |
-| **Operating systems** | Maritime, Hospitality, Entertainment |
-
----
-
-## 🎯 What I'm Looking For
-
-| Type | Description |
-|------|-------------|
-| **Consulting** | Digital Systems, Technical Operations, Maritime/Hospitality tech |
-| **Companies** | Looking for someone who **has been in the field** and **builds solutions** |
-| **Collaborations** | On SaaS, Cloud, AI integration projects |
-
-**My advantage:** I don't come from theory. I come from 20+ years of operations in complex environments. I know what works because **I've lived it**.
-
----
-
-## 📫 Contact
-
-- 📧 [carmine@cdalise.com](mailto:carmine@cdalise.com)
-- 💼 [linkedin.com/in/carminedalise-digital](https://linkedin.com/in/carminedalise-digital)
-- 🌐 [cdalise.com](https://cdalise.com)
-
----
-
-<div align="center">
-  
-  *"Twenty years of international operations have taught me one thing: results are built through discipline, leadership and the ability to perform when it matters most. That is what I bring to every role."*
-  
-  **Available · Based in Italy · Response within 24 hours**
-  
-</div>
-
-<!-- BANNER IN BASSO -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:004e92&height=100&section=footer)
