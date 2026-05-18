@@ -26,22 +26,38 @@
 
 ---
 
-## 📊 Live Metrics (real-time GitHub stats)
+## 📊 Live Metrics
 
 <div align="center">
   
-  <!-- Card 1: Statistiche generali -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iacreatorcar&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide=issues,contribs" width="45%" />
+  <!-- Contatore visite (funziona sempre) -->
+  <img src="https://komarev.com/ghpvc/?username=iacreatorcar&color=00b4d8&style=flat-square&label=Profile+Views" />
   
-  <!-- Card 2: Linguaggi più usati -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iacreatorcar&layout=compact&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117&langs_count=6" width="45%" />
+  <br/><br/>
   
-</div>
-
-<div align="center">
+  <!-- Badge con i tuoi risultati REALI (sempre visibili) -->
+  <img src="https://img.shields.io/badge/📦_Projects-10+-00b4d8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Live_Platforms-8-004e92?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️_Tech-15+-0077b5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📝_Commits_2026-43+-00b4d8?style=for-the-badge" />
   
-  <!-- Card 3: Streak (striscia di contributi) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iacreatorcar&hide_border=true&stroke=00b4d8&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=ffffff" width="70%" />
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/🔥_Current_Streak-1_day-00b4d8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_Longest_Streak-5_days-004e92?style=for-the-badge" />
+  
+  <br/><br/>
+  
+  <!-- Link alternativo alle statistiche GitHub -->
+  <details>
+    <summary>📈 View detailed GitHub stats</summary>
+    <br/>
+    <a href="https://github.com/iacreatorcar">
+      <img src="https://img.shields.io/badge/Click_to_see_all_stats-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <br/><br/>
+    <i>GitHub stats service is temporarily paused. Click the button above to see your stats directly on GitHub.</i>
+  </details>
   
 </div>
 
