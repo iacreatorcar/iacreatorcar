@@ -16,7 +16,7 @@
 
 ## 👋 Who I Am
 
-**Carmine D'Alise** — Technical Product Builder.
+**Technical Operations Manager | Full Stack Developer | Systems Integration & Digital Transformation**
 
 20+ years of international operations on cruise ships, superyachts, and hospitality. Today I build digital systems rooted in **real problems** I experienced in the field.
 
