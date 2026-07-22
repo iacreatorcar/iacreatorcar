@@ -9,6 +9,7 @@
   
   <!-- OPEN TO WORK BADGE -->
   <img src="https://img.shields.io/badge/Open_to_Work-00b4d8?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Live_Platforms-11-004e92?style=for-the-badge" />
   
 </div>
 
@@ -121,6 +122,9 @@ From January 2026 to today, I created a **complete ecosystem**:
 | **Symphony Spa** | [symphony-spa.cdalise.com](https://symphony-spa.cdalise.com) | Cruise wellness UX — booking, QR, iTV |
 | **Nexus XPanel** | [nexus.cdalise.com](https://nexus.cdalise.com) | Superyacht control panel (Crestron-compatible) |
 | **Cruise Games Arena** | (on request) | 5-language quiz system for cruise ships |
+| **ShowTime ERP** | [showtimerp.cdalise.com](https://showtimerp.cdalise.com) | Theater management system (ERP) |
+| **Lab ERP** | [laberp.cdalise.com](https://laberp.cdalise.com) | Engine Lab Pro — desktop app showcase |
+| **Smart Node Monitor** | [smart-node-monitor.cdalise.com](https://smart-node-monitor.cdalise.com) | Real-time node monitoring dashboard |
 
 ---
 
