@@ -173,7 +173,7 @@ Professional interactive quiz system for cruise ships:
 
 ### Certifications (in progress)
 ![Azure](https://img.shields.io/badge/Azure_900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) *(in progress)*
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) *(in progress)*
+![AWS Technical Essential](https://img.shields.io/badge/AWS_Technical_Essential-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
