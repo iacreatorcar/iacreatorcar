@@ -101,7 +101,6 @@ From January 2026 to today, I created a **complete ecosystem**:
 | 🚢 **Maritime Platforms** | Meridian (Guest Intelligence), BerthFlow (marina management), NauticGantt (fleet management) |
 | 🏨 **Hospitality Systems** | HotelFlow Manager, Oishii (restaurant), Symphony Spa |
 | 🎮 **Interactive Entertainment** | Cruise Games Arena (5-language quiz system), Antigravity |
-| 🛠️ **Operational Tools** | TickFlow (ticketing system), Nexus XPanel (Crestron-compatible control) |
 | 🤖 **AI Integration** | Build Agent (AI logic for 3 platforms) |
 
 ---
@@ -113,8 +112,7 @@ From January 2026 to today, I created a **complete ecosystem**:
 | **Meridian Aria** | [meridian.cdalise.com](https://meridian.cdalise.com) | Luxury Cruise Intelligence Platform with AI integration |
 | **BerthFlow** | [berthflow.com](https://berthflow.com) | Marina management — live map, bookings, RLS |
 | **NauticGantt** | [nauticgantt.cdalise.com](https://nauticgantt.cdalise.com) | Charter fleet management — Gantt, KPI, CRUD |
-| **MarinaFlow** | [marinaflow.cdalise.com](https://marinaflow.cdalise.com) | Marina management with Supabase |
-| **TickFlow** | [taskflow.cdalise.com](https://taskflow.cdalise.com) | Professional ticketing system (React, TS, Kanban) |
+| **MarinaFlow** | [marinaflow.cdalise.com](https://marinaflow.cdalise.com) | Marina management with Supabase 
 | **Oishii** | [oishii.cdalise.com](https://oishii.cdalise.com) | Restaurant management — menu, reservations |
 | **Symphony Spa** | [symphony-spa.cdalise.com](https://symphony-spa.cdalise.com) | Cruise wellness UX — booking, QR, iTV |
 | **Nexus XPanel** | [nexus.cdalise.com](https://nexus.cdalise.com) | Superyacht control panel (Crestron-compatible) |
