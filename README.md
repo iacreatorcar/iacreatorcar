@@ -61,9 +61,6 @@
 <a href="https://hotelflow.cdalise.com">
   <img src="https://img.shields.io/badge/HotelFlow-00b4d8?style=for-the-badge&logo=hotel&logoColor=white" />
 </a>
-<a href="https://taskflow.cdalise.com">
-  <img src="https://img.shields.io/badge/TickFlow-004e92?style=for-the-badge&logo=jira&logoColor=white" />
-</a>
 <a href="https://symphony-spa.cdalise.com">
   <img src="https://img.shields.io/badge/Symphony_Spa-00b4d8?style=for-the-badge&logo=spa&logoColor=white" />
 </a>
