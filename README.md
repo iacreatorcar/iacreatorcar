@@ -17,11 +17,11 @@
 
 ## 👋 Who I Am
 
-**Technical Operations Manager | Full Stack Developer | Systems Integration & Digital Transformation**
+**Digital Transformation & Technical Solutions | SaaS · Cloud · Full-Stack · AI & Automation**
 
-20+ years of international operations on cruise ships, superyachts, and hospitality. Today I build digital systems rooted in **real problems** I experienced in the field.
+20+ years of international experience across cruise, hospitality and technology. I design and build tailored digital solutions connecting business requirements with cloud architecture, secure data, automation and real-world operations
 
-> *"I don't write code just to write code. I build tools I wish I had when I was on board, deep in the digital and tech world."*
+> *"Scalable SaaS · Backend & APIs · Data Security · CI/CD · Systems Integration · Analytics"*
 
 📍 Naples, Italy · Available worldwide
 
