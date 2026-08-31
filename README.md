@@ -111,7 +111,6 @@ From January 2026 to today, I created a **complete ecosystem**:
 |---------|-----|---------------|
 | **Meridian Aria** | [meridian.cdalise.com](https://meridian.cdalise.com) | Luxury Cruise Intelligence Platform with AI integration |
 | **BerthFlow** | [berthflow.com](https://berthflow.com) | Marina management — live map, bookings, RLS |
-| **NauticGantt** | [nauticgantt.cdalise.com](https://nauticgantt.cdalise.com) | Charter fleet management — Gantt, KPI, CRUD |
 | **MarinaFlow** | [marinaflow.cdalise.com](https://marinaflow.cdalise.com) | Marina management with Supabase 
 | **Oishii** | [oishii.cdalise.com](https://oishii.cdalise.com) | Restaurant management — menu, reservations |
 | **Symphony Spa** | [symphony-spa.cdalise.com](https://symphony-spa.cdalise.com) | Cruise wellness UX — booking, QR, iTV |
