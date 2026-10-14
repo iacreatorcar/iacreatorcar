@@ -64,9 +64,6 @@
 <a href="https://symphony-spa.cdalise.com">
   <img src="https://img.shields.io/badge/Symphony_Spa-00b4d8?style=for-the-badge&logo=spa&logoColor=white" />
 </a>
-<a href="https://nexus.cdalise.com">
-  <img src="https://img.shields.io/badge/Nexus_XPanel-004e92?style=for-the-badge&logo=control&logoColor=white" />
-</a>
   
   <br/><br/>
   
@@ -111,14 +108,13 @@ From January 2026 to today, I created a **complete ecosystem**:
 |---------|-----|---------------|
 | **Meridian Aria** | [meridian.cdalise.com](https://meridian.cdalise.com) | Luxury Cruise Intelligence Platform with AI integration |
 | **BerthFlow** | [berthflow.com](https://berthflow.com) | Marina management — live map, bookings, RLS |
-| **MarinaFlow** | [marinaflow.cdalise.com](https://marinaflow.cdalise.com) | Marina management with Supabase 
-| **Oishii** | [oishii.cdalise.com](https://oishii.cdalise.com) | Restaurant management — menu, reservations |
-| **Symphony Spa** | [symphony-spa.cdalise.com](https://symphony-spa.cdalise.com) | Cruise wellness UX — booking, QR, iTV |
-| **Nexus XPanel** | [nexus.cdalise.com](https://nexus.cdalise.com) | Superyacht control panel (Crestron-compatible) |
+| **Symphony Spa** | [symphony-spa.cdalise.com](https://symphony-spa.cdalise.com) | Cruise wellness UX — booking, QR, iTV 
 | **Cruise Games Arena** | (on request) | 5-language quiz system for cruise ships |
 | **ShowTime ERP** | [showtimerp.cdalise.com](https://showtimerp.cdalise.com) | Theater management system (ERP) |
 | **Lab ERP** | [laberp.cdalise.com](https://laberp.cdalise.com) | Engine Lab Pro — desktop app showcase |
 | **Smart Node Monitor** | [smart-node-monitor.cdalise.com](https://smart-node-monitor.cdalise.com) | Real-time node monitoring dashboard |
+| **Lab ERP** | [laberp.cdalise.com](https://laberp.cdalise.com) | Your laboratory. Everything in view. |
+| **Voyara** | [voyara.cdalise.com](https://voyara.cdalise.com) | Book Egypt Tours — Simple, Transparent, Trusted |
 
 ---
 
