@@ -19,7 +19,7 @@
 
 **Digital Transformation & Technical Solutions | SaaS · Cloud · Full-Stack · AI & Automation**
 
-20+ years of international experience across cruise, hospitality and technology. I design and build tailored digital solutions connecting business requirements with cloud architecture, secure data, automation and real-world operations
+20+ years of international experience across cruise, hospitality and technology. I design and build tailored digital solutions that connect business requirements with cloud architecture, secure data, automation and real-world operations
 
 > *"Scalable SaaS · Backend & APIs · Data Security · CI/CD · Systems Integration · Analytics"*
 
