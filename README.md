@@ -115,6 +115,7 @@ From January 2026 to today, I created a **complete ecosystem**:
 | **Smart Node Monitor** | [smart-node-monitor.cdalise.com](https://smart-node-monitor.cdalise.com) | Real-time node monitoring dashboard |
 | **Lab ERP** | [laberp.cdalise.com](https://laberp.cdalise.com) | Your laboratory. Everything in view. |
 | **Voyara** | [voyara.cdalise.com](https://voyara.cdalise.com) | Book Egypt Tours — Simple, Transparent, Trusted |
+| **AROYA Cruises** | [aroya.cdalise.com](https://aroya.cdalise.com) | Digital Operations Launch — Case Study |
 
 ---
 
