@@ -4,7 +4,7 @@
 <div align="center">
   
   [![Website](https://img.shields.io/badge/🌐_cdalise.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.cdalise.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carminedalise-digital)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmine-dalise-digital)
   [![Email](https://img.shields.io/badge/Email-carmine@cdalise.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carmine@cdalise.com)
   
   <!-- OPEN TO WORK BADGE -->
@@ -115,7 +115,7 @@ From January 2026 to today, I created a **complete ecosystem**:
 | **Smart Node Monitor** | [smart-node-monitor.cdalise.com](https://smart-node-monitor.cdalise.com) | Real-time node monitoring dashboard |
 | **Lab ERP** | [laberp.cdalise.com](https://laberp.cdalise.com) | Your laboratory. Everything in view. |
 | **Voyara** | [voyara.cdalise.com](https://voyara.cdalise.com) | Book Egypt Tours — Simple, Transparent, Trusted |
-| **AROYA Cruises** | [aroya.cdalise.com](https://aroya.cdalise.com) | Digital Operations Launch — Case Study |
+
 
 ---
 
@@ -195,7 +195,7 @@ Professional interactive quiz system for cruise ships:
 ## 📫 Contact
 
 - 📧 [carmine@cdalise.com](mailto:carmine@cdalise.com)
-- 💼 [linkedin.com/in/carminedalise-digital](https://linkedin.com/in/carminedalise-digital)
+- 💼 [linkedin.com/in/carminedalise-digital](https://www.linkedin.com/in/carmine-dalise-digital)
 - 🌐 [cdalise.com](https://cdalise.com)
 
 ---
