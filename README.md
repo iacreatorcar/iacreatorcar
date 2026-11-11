@@ -111,9 +111,7 @@ From January 2026 to today, I created a **complete ecosystem**:
 | **Symphony Spa** | [symphony-spa.cdalise.com](https://symphony-spa.cdalise.com) | Cruise wellness UX — booking, QR, iTV 
 | **Cruise Games Arena** | (on request) | 5-language quiz system for cruise ships |
 | **ShowTime ERP** | [showtimerp.cdalise.com](https://showtimerp.cdalise.com) | Theater management system (ERP) |
-| **Lab ERP** | [laberp.cdalise.com](https://laberp.cdalise.com) | Engine Lab Pro — desktop app showcase |
 | **Smart Node Monitor** | [smart-node-monitor.cdalise.com](https://smart-node-monitor.cdalise.com) | Real-time node monitoring dashboard |
-| **Lab ERP** | [laberp.cdalise.com](https://laberp.cdalise.com) | Your laboratory. Everything in view. |
 | **Voyara** | [voyara.cdalise.com](https://voyara.cdalise.com) | Book Egypt Tours — Simple, Transparent, Trusted |
 
 
